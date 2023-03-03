@@ -14,7 +14,7 @@
       <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.2" />
       <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.2" />
       <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.2" />
-      <PackageReference Include="MongoDB.Driver" Version="2.10.2" />
+      <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
       <PackageReference Include="MWork.Common.Sdk" Version="0.1.0-18" />
     </ItemGroup>
 
